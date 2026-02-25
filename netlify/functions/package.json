@@ -1,0 +1,8 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions para integração com Stripe",
+  "dependencies": {
+    "stripe": "^14.25.0"
+  }
+}
